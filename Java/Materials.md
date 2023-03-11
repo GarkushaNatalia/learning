@@ -7,7 +7,7 @@
 
 
 ### Other
-
+- [ ] https://hyperskill.org/tracks/18
 ### Books
 
 

@@ -12,4 +12,6 @@
 ### Books
 - [ ] Грокаем алгоритмы
 - [ ] Паттерны на питоне
+- [ ] https://www.digitalocean.com/community/tutorials/gangs-of-four-gof-design-patterns
+
 
